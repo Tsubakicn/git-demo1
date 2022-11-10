@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("Hello IDEA Git5");
         System.out.println("Hello IDEA Git7");
         System.out.println("Hello IDEA Git8");
+        System.out.println("Hello IDEA Git9");
     }
 }
