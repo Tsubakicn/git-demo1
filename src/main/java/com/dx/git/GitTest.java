@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("Hello IDEA Git3");
         System.out.println("push Hello GitHub");
         System.out.println("pull Hello GitHub");
+        System.out.println("github update");
     }
 }
